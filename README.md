@@ -11,7 +11,7 @@ I'm on a journey to becoming a DevOps engineer, currently exploring AWS, Linux, 
 - 🌱 I’m currently learning **kubernetes, Jenkins, Terraform**
 - 🤔 I’m looking for help with **DevOps, Linux, Git, Docker**
 - 💬 Ask me about **DevOps**
-- 📫 How to reach me: anikdasprivate@gmail.com 
+- 📫 How to reach me: <span style="color: black; text-decoration: none;">✉️ anikdasprivate@gmail.com</span>
 - ⚡ Fun fact: I like to lisining music🎧 and watching movie 🎬 
 
 <h4 align="left">Connect with me:</h4>
