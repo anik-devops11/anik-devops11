@@ -33,7 +33,5 @@ I'm on a journey to becoming a DevOps engineer, currently exploring AWS, Linux, 
 
 ![](https://github-readme-stats.vercel.app/api?username=anik-devops11&theme=radical&_border=false&include_all_commits=true&count_private=true)
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/anik-devops11/contributions?format=svg&private=true)  
-
 ![](https://github-readme-streak-stats.herokuapp.com/?user=anik-devops11&theme=radical&hide_border=false)
 
