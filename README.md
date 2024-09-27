@@ -7,10 +7,10 @@ I'm on a journey to becoming a DevOps engineer, currently exploring AWS, Linux, 
 
 <img align = "right" alt = "coding" width="300" src = "https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif"> </br>
 
-- 🔭 I’m currently working on AWS, Linux, Docker 
-- 🌱 I’m currently learning kubernetes, Jenkins, Terraform 
-- 🤔 I’m looking for help with DevOps, Linux, Git, Docker 
-- 💬 Ask me about DevOps 
+- 🔭 I’m currently working on **AWS, Linux, Docker**
+- 🌱 I’m currently learning **kubernetes, Jenkins, Terraform**
+- 🤔 I’m looking for help with **DevOps, Linux, Git, Docker**
+- 💬 Ask me about **DevOps**
 - 📫 How to reach me: anikdasprivate@gmail.com 
 - ⚡ Fun fact: I like to lisining music🎧 and watching movie 🎬 
 
