@@ -9,13 +9,12 @@
 
 
 <img align = "right" alt = "coding" width="300" src = "https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif"> </br>
-
+<p align="Right"> <img src="https://visitcount.itsvg.in/api?id=anik-devops11&icon=2&color=5)](https://visitcount.itsvg.in" alt="Anik" /> </p>
 - 🔭 I’m currently working on **AWS, Linux, Docker**
 - 🌱 I’m currently learning **kubernetes, Jenkins, Terraform**
 - 🤔 I’m looking for help with **DevOps, Linux, Git, Docker** 
 - 💬 Ask me about **DevOps**
 - 📫 How to reach me: <span style="color: black; text-decoration: none;">✉️ anikdasprivate@gmail.com</span>
-
 - ⚡ Fun fact: 90% of the cloud runs on **Linux**, so if the cloud had a king, it would be a **PENGIUN!** 👑🐧 
 
 <h4 align="center">🔎 Connect with me 🔍</h4>
