@@ -12,11 +12,11 @@
 
 <P align="left">
   <a href="https://github.com/MacroPower/MacroPower">
-    <img src="https://komarev.com/ghpvc/?username=macropower" alt="page views" />
+    <img src="https://komarev.com/ghpvc/?username=anik-devops11" alt="page views" />
   </a>
 
   <a href="https://github.com/MacroPower?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/MacroPower?style=flat&logo=github">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/anik-devops11?style=flat&logo=github">
   </a>
 </p>
 
