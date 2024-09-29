@@ -2,7 +2,7 @@
 
 <h2 align="center">Hi there 👋, I'm Anik Das</h2>
 
-#### Passionate About DevOps | Always seeking new challenges to learn and grow
+### Passionate About DevOps | Always seeking new challenges to learn and grow
 
 <p style="text-align: justify;">I'm on a journey to becoming a DevOps engineer, currently exploring AWS, Linux, and Docker. Next on my learning path are Kubernetes, CI/CD pipelines with Jenkins, and Terraform for infrastructure as code. My goal is to automate, scale, and optimize systems for seamless development and operations.</p>
 
