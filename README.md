@@ -30,7 +30,7 @@
 
 <br>
 
-<h4 align="center">🔎 Connect with me 🔍</h4>
+<h3 align="center">🔎 Connect with me 🔍</h3>
 <br>
 
 <a href="https://github.com/anik-devops11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="anik-das12" height="30" width="40" /></a>
@@ -38,7 +38,6 @@
 <a href="https://fb.com/anik.das1299" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anik.das1299" height="30" width="40" /></a>
 <a href="https://instagram.com/anik_das99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anik_das99" height="30" width="40" /></a> 
 
-<br>
 
 <h4 align="center">⭐ Languages and Tools ⭐</h4>
 <br>
