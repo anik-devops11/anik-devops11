@@ -20,7 +20,6 @@
   </a>
 </p>
 
-<p align="Left"> <img src="https://visitcount.itsvg.in/api?id=anik-devops11&icon=2&color=5)](https://visitcount.itsvg.in" alt="Anik" /> </p>
 
 - 🔭 I’m currently working on **AWS, Linux, Docker**
 - 🌱 I’m currently learning **kubernetes, Jenkins, Terraform**
