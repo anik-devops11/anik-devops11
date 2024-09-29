@@ -10,6 +10,16 @@
 
 <img align = "right" alt = "coding" width="300" src = "https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif"> </br>
 
+<P align="left">
+  <a href="https://github.com/MacroPower/MacroPower">
+    <img src="https://komarev.com/ghpvc/?username=macropower" alt="page views" />
+  </a>
+
+  <a href="https://github.com/MacroPower?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/MacroPower?style=flat&logo=github">
+  </a>
+</p>
+
 <p align="Left"> <img src="https://visitcount.itsvg.in/api?id=anik-devops11&icon=2&color=5)](https://visitcount.itsvg.in" alt="Anik" /> </p>
 
 - 🔭 I’m currently working on **AWS, Linux, Docker**
