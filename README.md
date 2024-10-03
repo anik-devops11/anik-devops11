@@ -8,7 +8,7 @@
 
 
 
-<img align = "right" alt = "coding" width="300" src = "https://github.com/anik-devops11/anik-devops11/blob/main/images/Gif.mp4"> </br>
+<img align = "right" alt = "coding" width="300" src = "https://github.com/anik-devops11/anik-devops11/blob/main/images/Gif.svg"> </br>
 
 <P align="left">
   <a href="https://github.com/MacroPower/MacroPower">
