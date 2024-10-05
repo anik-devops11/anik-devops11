@@ -1,4 +1,4 @@
-![logo](https://github.com/anik-devops11/anik-devops11/blob/main/images/Github%20Banner.png)
+<img src="https://github.com/anik-devops11/anik-devops11/blob/main/images/Github%20Banner.png" border="0">
 
 <h2 align="center">Hi there 👋, I'm Anik Das</h2>
 
