@@ -1,4 +1,4 @@
-![logo](https://media.licdn.com/dms/image/v2/D5616AQEkbCmKm1raFA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1727414199230?e=1732752000&v=beta&t=fAkXRqk7mAXJoXbnGt3wd5xZdmFciloSE2q7zvEAHck)
+![logo](https://github.com/anik-devops11/anik-devops11/blob/main/images/Github%20Banner.png)
 
 <h2 align="center">Hi there 👋, I'm Anik Das</h2>
 
